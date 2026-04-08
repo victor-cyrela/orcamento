@@ -1,0 +1,10 @@
+pattern,classification_display,priority,scope
+"pessoal|encargos|beneficios|ferias|13o|13º|salari|vale transporte|auxilio refeicao|assistencia medica|seguro de vida|gerente predial|assistente administrativo|mensageria|porteiro|vigia|zelador|faxineir|asg","Pessoal",10,both
+"contrat|terceiriz|concierge|courrier|staff|supervisao|auditoria|juridica|remuneracao sindicaturas|servico|servicos tecnicos","Contratos",20,both
+"concessionarias|tarifas e taxas|agua|esgoto|light|energia|gas|telefone|internet","Concessionárias",30,both
+"manutencao|elevador|interfone|portoes|cftv|piscina|extintor|mangueir|bombas|hidr[oô]metro|academia|incendio|pressuriz|exaust|gerador|split|paisagismo|jardinagem|reserva(torio)?","Manutenção e Conservação",40,both
+"limpeza|higiene|dedetiza|controle de vetores|controle de pragas|material de limpeza|material de manutencao predial|conservacao predial","Conservação Predial",50,both
+"administrativ|diversos|escritorio|adm local|boleto|cadastro|postagem|bancaria|taxa de servico auxiliar de administracao|consultoria tecnica|sindicatura|assembleias|certificacao|material eletrico e hidraulico","Administrativas",60,both
+"seguro","Seguros",70,both
+"rateio","Rateios",80,both
+"fundo","Fundos e Reservas",90,both
